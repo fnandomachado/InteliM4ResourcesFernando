@@ -13,4 +13,4 @@ void loop()
   delay(500); // Wait for 500 millisecond(s)
 }
 
-https://www.tinkercad.com/things/1e9b2QwxLpo-led-fernando/editel?sharecode=6d5uYFhij-RXnBhZTLVh6G1DUZXUHdpTKLZ0eodR4C8
+// https://www.tinkercad.com/things/1e9b2QwxLpo-led-fernando/editel?sharecode=6d5uYFhij-RXnBhZTLVh6G1DUZXUHdpTKLZ0eodR4C8
